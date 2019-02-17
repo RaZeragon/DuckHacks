@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
 
 
         //Wassup
+        //ur code dumb
     }
 }
